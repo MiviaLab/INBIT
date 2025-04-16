@@ -1,0 +1,31 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec)
+chb20_01.edf;923136;21;no seizure;0;0;0
+chb20_02.edf;921600;21;no seizure;0;0;0
+chb20_03.edf;921600;21;no seizure;0;0;0
+chb20_04.edf;921600;21;no seizure;0;0;0
+chb20_05.edf;921600;21;no seizure;0;0;0
+chb20_06.edf;921600;21;no seizure;0;0;0
+chb20_07.edf;921600;21;no seizure;0;0;0
+chb20_08.edf;921600;21;no seizure;0;0;0
+chb20_11.edf;921600;21;no seizure;0;0;0
+chb20_12.edf;921600;21;seizure;1;94;123
+chb20_13.edf;921600;21;seizure;2;1440-2498;1470-2537
+chb20_14.edf;921600;21;seizure;1;1971;2009
+chb20_15.edf;921600;21;seizure;2;390-1689;425-1738
+chb20_16.edf;888064;21;seizure;1;2226;2261
+chb20_17.edf;921600;21;no seizure;0;0;0
+chb20_21.edf;926208;21;no seizure;0;0;0
+chb20_22.edf;189952;21;no seizure;0;0;0
+chb20_23.edf;758784;21;no seizure;0;0;0
+chb20_25.edf;921600;21;no seizure;0;0;0
+chb20_26.edf;921600;21;no seizure;0;0;0
+chb20_27.edf;921600;21;no seizure;0;0;0
+chb20_28.edf;921600;21;no seizure;0;0;0
+chb20_29.edf;921600;21;no seizure;0;0;0
+chb20_30.edf;921600;21;no seizure;0;0;0
+chb20_31.edf;921600;21;no seizure;0;0;0
+chb20_34.edf;921600;21;no seizure;0;0;0
+chb20_59.edf;921600;21;no seizure;0;0;0
+chb20_60.edf;921600;21;no seizure;0;0;0
+chb20_68.edf;554752;21;seizure;1;1393;1432
+chb20_01.edf;923136;21;no seizure;0;0;0

@@ -1,0 +1,20 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec)
+chb16_01.edf;921600;21;no seizure;0;0;0
+chb16_02.edf;921600;21;no seizure;0;0;0
+chb16_03.edf;921600;21;no seizure;0;0;0
+chb16_04.edf;921600;21;no seizure;0;0;0
+chb16_05.edf;921600;21;no seizure;0;0;0
+chb16_06.edf;921600;21;no seizure;0;0;0
+chb16_07.edf;921600;21;no seizure;0;0;0
+chb16_08.edf;921600;21;no seizure;0;0;0
+chb16_09.edf;921600;21;no seizure;0;0;0
+chb16_10.edf;921600;21;seizure;1;2290;2299
+chb16_11.edf;921600;21;seizure;1;1120;1129
+chb16_12.edf;921600;21;no seizure;0;0;0
+chb16_13.edf;921600;21;no seizure;0;0;0
+chb16_14.edf;921600;21;seizure;1;1854;1868
+chb16_15.edf;921600;21;no seizure;0;0;0
+chb16_16.edf;921600;21;seizure;1;1214;1220
+chb16_17.edf;921600;21;seizure;4;227-1694-2162-3290;236-1700-2170-3298
+chb16_18.edf;921600;17;seizure;2;627-1909;635-1916
+chb16_19.edf;921600;17;no seizure;0;0;0

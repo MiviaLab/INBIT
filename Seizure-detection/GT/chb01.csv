@@ -1,0 +1,43 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec);Start (pre);End (pre)
+chb01_01.edf;921600;21;no seizure;0;0;0;0;0
+chb01_02.edf;921600;21;no seizure;0;0;0;0;0
+chb01_03.edf;921600;21;seizure;1;2996;3036;1800;2996
+chb01_04.edf;921600;21;seizure;1;1467;1494;750;1467
+chb01_05.edf;921600;21;no seizure;0;0;0;0;0
+chb01_06.edf;921600;21;no seizure;0;0;0;0;0
+chb01_07.edf;921600;21;no seizure;0;0;0;0;0
+chb01_08.edf;921600;21;no seizure;0;0;0;0;0
+chb01_09.edf;921600;21;no seizure;0;0;0;0;0
+chb01_10.edf;921600;21;no seizure;0;0;0;0;0
+chb01_11.edf;921600;21;no seizure;0;0;0;0;0
+chb01_12.edf;921600;21;no seizure;0;0;0;0;0
+chb01_13.edf;921600;21;no seizure;0;0;0;0;0
+chb01_14.edf;921600;21;no seizure;0;0;0;0;0
+chb01_15.edf;921600;21;seizure;1;1732;1772;1605;1732
+chb01_16.edf;921600;21;seizure;1;1015;1066;870;1015
+chb01_17.edf;921600;21;no seizure;0;0;0;0;0
+chb01_18.edf;921600;21;seizure;1;1720;1810;1400;1720
+chb01_19.edf;921600;21;no seizure;0;0;0;0;0
+chb01_20.edf;681728;21;no seizure;0;0;0;2230;2662
+chb01_21.edf;921600;21;seizure;1;327;420;0;327
+chb01_22.edf;921600;21;no seizure;0;0;0;0;0
+chb01_23.edf;921600;21;no seizure;0;0;0;0;0
+chb01_24.edf;921600;21;no seizure;0;0;0;0;0
+chb01_25.edf;921600;21;no seizure;0;0;0;0;0
+chb01_26.edf;595200;21;seizure;1;1862;1963;900;1862
+chb01_27.edf;153600;21;no seizure;0;0;0;0;0
+chb01_29.edf;921600;21;no seizure;0;0;0;0;0
+chb01_30.edf;921600;21;no seizure;0;0;0;0;0
+chb01_31.edf;921600;21;no seizure;0;0;0;0;0
+chb01_32.edf;921600;21;no seizure;0;0;0;0;0
+chb01_33.edf;921600;21;no seizure;0;0;0;0;0
+chb01_34.edf;921600;21;no seizure;0;0;0;0;0
+chb01_36.edf;921600;21;no seizure;0;0;0;0;0
+chb01_37.edf;921600;21;no seizure;0;0;0;0;0
+chb01_38.edf;921600;21;no seizure;0;0;0;0;0
+chb01_39.edf;921600;21;no seizure;0;0;0;0;0
+chb01_40.edf;921600;21;no seizure;0;0;0;0;0
+chb01_41.edf;921600;21;no seizure;0;0;0;0;0
+chb01_42.edf;921600;21;no seizure;0;0;0;0;0
+chb01_43.edf;921600;21;no seizure;0;0;0;0;0
+chb01_46.edf;921600;21;no seizure;0;0;0;0;0

@@ -1,0 +1,21 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec)
+chb08_02.edf;921600;21;seizure;1;2670;2841
+chb08_03.edf;921600;21;no seizure;0;0;0
+chb08_04.edf;921600;21;no seizure;0;0;0
+chb08_05.edf;921600;21;seizure;1;2856;3046
+chb08_10.edf;921600;21;no seizure;0;0;0
+chb08_11.edf;921600;21;seizure;1;2988;3122
+chb08_12.edf;921600;21;no seizure;0;0;0
+chb08_13.edf;921600;21;seizure;1;2417;2577
+chb08_14.edf;921600;21;no seizure;0;0;0
+chb08_15.edf;921600;21;no seizure;0;0;0
+chb08_16.edf;921600;21;no seizure;0;0;0
+chb08_17.edf;921600;21;no seizure;0;0;0
+chb08_18.edf;921600;21;no seizure;0;0;0
+chb08_19.edf;921600;21;no seizure;0;0;0
+chb08_20.edf;921600;21;no seizure;0;0;0
+chb08_21.edf;921600;21;seizure;1;2083;2347
+chb08_22.edf;921600;21;no seizure;0;0;0
+chb08_23.edf;921600;21;no seizure;0;0;0
+chb08_24.edf;921600;21;no seizure;0;0;0
+chb08_29.edf;927488;21;no seizure;0;0;0

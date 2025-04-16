@@ -1,0 +1,22 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec)
+chb12_06.edf;923136;21;seizure;2;1665-3415;1726-3447
+chb12_08.edf;921600;21;seizure;4;1426-1591-1957-2798;1439-1614-1977-2824
+chb12_09.edf;924672;21;seizure;2;3082-3503;3114-3535
+chb12_10.edf;924416;21;seizure;2;593-811;625-856
+chb12_11.edf;622336;21;seizure;1;1085;1122
+chb12_19.edf;921600;21;no seizure;0;0;0
+chb12_20.edf;921600;21;no seizure;0;0;0
+chb12_21.edf;921600;21;no seizure;0;0;0
+chb12_23.edf;921600;21;seizure;3;253-425-630;333-522-670
+chb12_24.edf;921600;21;no seizure;0;0;0
+chb12_32.edf;921600;21;no seizure;0;0;0
+chb12_33.edf;921600;21;seizure;2;2185-2427;2206-2450
+chb12_34.edf;921600;21;no seizure;0;0;0
+chb12_35.edf;921600;21;no seizure;0;0;0
+chb12_36.edf;921600;21;seizure;1;653;680
+chb12_37.edf;925696;21;no seizure;0;0;0
+chb12_38.edf;921600;21;seizure;5;1548-2798-2966-3146-3364;1573-2821-3009-3201-3410
+chb12_39.edf;921600;21;no seizure;0;0;0
+chb12_40.edf;921600;21;no seizure;0;0;0
+chb12_41.edf;921600;21;no seizure;0;0;0
+chb12_42.edf;921600;21;seizure;5;699-945-1170-1676-2213;750-973-1199-1701-2236

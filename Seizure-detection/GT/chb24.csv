@@ -1,0 +1,23 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec)
+chb24_01.edf;921600;21;seizure;2;480-2451;505-2476
+chb24_02.edf;921600;21;no seizure;0;0;0
+chb24_03.edf;921600;21;seizure;2;231-2883;260-2908
+chb24_04.edf;921600;21;seizure;3;1088-1411-1745;1120-1438-1764
+chb24_05.edf;921600;21;no seizure;0;0;0
+chb24_06.edf;921600;21;seizure;1;1229;1253
+chb24_07.edf;921600;21;seizure;1;38;60
+chb24_08.edf;921600;21;no seizure;0;0;0
+chb24_09.edf;921600;21;seizure;1;1745;1764
+chb24_10.edf;921600;21;no seizure;0;0;0
+chb24_11.edf;921600;21;seizure;1;3527;3597
+chb24_12.edf;921600;21;no seizure;0;0;0
+chb24_13.edf;921600;21;seizure;1;3288;3304
+chb24_14.edf;921600;21;seizure;1;1939;1966
+chb24_15.edf;921600;21;seizure;1;3552;3569
+chb24_16.edf;921600;21;no seizure;0;0;0
+chb24_17.edf;921600;21;seizure;1;3515;3581
+chb24_18.edf;921600;21;no seizure;0;0;0
+chb24_19.edf;921600;21;no seizure;0;0;0
+chb24_20.edf;921600;21;no seizure;0;0;0
+chb24_21.edf;921600;21;seizure;1;2804;2872
+chb24_22.edf;273152;21;no seizure;0;0;0

@@ -1,0 +1,34 @@
+Name of file;Len data;Num of ch;class_name;Numb of seizures;Start (sec);End (sec)
+chb13_02.edf;921600;21;no seizure;0;0;0
+chb13_03.edf;921600;21;no seizure;0;0;0
+chb13_04.edf;921600;17;no seizure;0;0;0
+chb13_05.edf;921600;17;no seizure;0;0;0
+chb13_06.edf;921600;17;no seizure;0;0;0
+chb13_07.edf;921600;17;no seizure;0;0;0
+chb13_08.edf;921600;17;no seizure;0;0;0
+chb13_09.edf;920064;17;no seizure;0;0;0
+chb13_10.edf;921600;17;no seizure;0;0;0
+chb13_11.edf;921600;17;no seizure;0;0;0
+chb13_12.edf;921600;17;no seizure;0;0;0
+chb13_13.edf;921600;17;no seizure;0;0;0
+chb13_14.edf;921600;17;no seizure;0;0;0
+chb13_15.edf;921600;17;no seizure;0;0;0
+chb13_16.edf;921600;17;no seizure;0;0;0
+chb13_18.edf;921600;17;no seizure;0;0;0
+chb13_19.edf;921600;21;seizure;1;2077;2121
+chb13_21.edf;921600;21;seizure;1;934;1004
+chb13_22.edf;921600;21;no seizure;0;0;0
+chb13_24.edf;921600;17;no seizure;0;0;0
+chb13_30.edf;921600;17;no seizure;0;0;0
+chb13_36.edf;921600;17;no seizure;0;0;0
+chb13_37.edf;921600;17;no seizure;0;0;0
+chb13_38.edf;921600;17;no seizure;0;0;0
+chb13_39.edf;921600;17;no seizure;0;0;0
+chb13_40.edf;921600;17;seizure;2;142-530;173-594
+chb13_47.edf;921600;17;no seizure;0;0;0
+chb13_55.edf;921600;21;seizure;2;458-2436;478-2454
+chb13_56.edf;921600;21;no seizure;0;0;0
+chb13_58.edf;921600;21;seizure;1;2474;2491
+chb13_59.edf;921600;21;seizure;1;3339;3401
+chb13_60.edf;921600;21;seizure;1;638;660
+chb13_62.edf;921600;21;seizure;3;851-1626-2664;916-1691-2721
