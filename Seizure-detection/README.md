@@ -2,7 +2,9 @@
 This repository contains the code related to the paper: Ferrara R., Giaquinto M., Percannella G., Rundo L., Saggese A. "Personalizing Seizure Detection to Individual Patients by an Optimal Selection of EEG Signals". Under review (Sensors).
 
 This study proposes a lightweight Convolutional Neural Network tailored for personalized seizure detection. The model receives as input data from two EEG channels, selected through a data-driven approach that identifies the most informative channel during the ictal phase and another during the inter-ictal phase.
-![Model architecture](image.png)
+
+
+![Selected channels](image.png)
 
 ## Run Experiments
 
