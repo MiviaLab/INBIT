@@ -7,7 +7,7 @@ Environment Set Up
 Install required packages: torch, MNE 
 
 
-Run Experiments
+## Run Experiments
 
 python run_test.py 
 
