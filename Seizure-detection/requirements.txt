@@ -1,6 +1,6 @@
-numpy
-pandas
-scikit_learn
-scipy
-torch
-mne
+numpy == 1.24.3
+pandas == 1.5.3
+scikit_learn == 1.3.2
+scipy == 1.10.1
+torch == 2.1.2
+mne == 1.5.1
