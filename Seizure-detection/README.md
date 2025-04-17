@@ -2,18 +2,17 @@ This repository will contain the code related to the paper: Ferrara R., Giaquint
 
 This study presents a lightweight Convolutional Neural Network optimized for seizure detection in a personalized approach, using data from two channels selected based on a data-driven analysis. This analysis identifies one channel during the ictal phase and another during the inter-ictal phase.
 
-Environment Set Up
+## Environment Set Up
 
 Install required packages: torch, MNE 
 
 
-Run Experiments
+## Run Experiments
 
 python run_test.py 
 
 
-
-Folder Structures
+## Folder Structures
 
 1. utils/: contains dataset processing scripts for extracting data using the MNE package and splitting it into 1-hour records.
 
