@@ -89,7 +89,7 @@ def check_channels(record):
 
 
 for subject_name in os.listdir(dataset_path): 
-    path_features = dataset_path.replace("1.0.0", "all_features")
+    path_features = dataset_path.replace("1.0.0", "features")
     
     if not os.path.exists(path_features):
         os.makedirs(path_features) 
