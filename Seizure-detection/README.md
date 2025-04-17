@@ -4,14 +4,16 @@ This repository contains the code related to the paper: Ferrara R., Giaquinto M.
 This study proposes a lightweight Convolutional Neural Network tailored for personalized seizure detection. The model receives as input data from two EEG channels, selected through a data-driven approach that identifies the most informative channel during the ictal phase and another during the inter-ictal phase.
 
 
+
 ![Selected channels](image.png)
+
 
 ## Run Experiments
 
 python run_test.py 
 
 
-Folder Structures
+## Folder Structures
 
 1. utils/: contains dataset processing scripts for extracting data using the MNE package and splitting it into 1-hour records.
 
